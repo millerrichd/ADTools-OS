@@ -26,7 +26,7 @@ setup(
     ],
   install_requires = [
     "pycrypto == 2.6.1",
-    "python-ldap == 2.4.22",
-    "kerberos == 1.2.5",
+    "python-ldap == 3.2.0",
+    "kerberos == 1.3.0",
     ],
 )
