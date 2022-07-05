@@ -7,8 +7,7 @@ setup(
   description = 'Active Directory toolset, including keytab generation',
   author = "Steven O'Donnell - Locked Versions, Richard Miller",
   author_email = 'developer@steven.io - Locked Versions, rmiller@lytx.com',
-  url = 'http://dctfs4:8080/tfs/Lytx/_git/ADTools',
-  download_url = 'https://github.com/stevenwoah/adtools/archive/0.2.tar.gz',
+  url = 'https://github.com/millerrichd/ADTools-OS',
   keywords = ['kerberos', 'keytab', 'gssapi', 'ldap', 'openldap', 'active', 'directory', 'ad', 'tools'],
   license = 'MIT',
   classifiers = [
